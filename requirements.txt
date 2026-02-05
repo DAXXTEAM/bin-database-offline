@@ -1,0 +1,6 @@
+# No external dependencies required!
+# Python 3.6+ with built-in sqlite3 is sufficient
+
+# Optional: For enhanced features
+# requests>=2.25.0  # For future API sync features
+# pandas>=1.0.0     # For CSV export/import
