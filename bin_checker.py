@@ -15,7 +15,7 @@ import sys
 import json
 from datetime import datetime
 
-DB_FILE = '/root/bin_database_full.db'
+DB_FILE = 'bin_database.db'
 
 class BINChecker:
     def __init__(self):
